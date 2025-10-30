@@ -1,0 +1,48 @@
+# ======================
+# Python / Backend
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Backend uploads (skip user uploads & generated files)
+backend/uploads/
+backend/frontend_build/
+uploads/vgg19_weights/vgg19-weights.pth
+
+# ======================
+# Node / Frontend
+# ======================
+# Ignore all node_modules anywhere in project
+**/node_modules/
+# Ignore React build folder
+frontend/build/
+
+# npm / yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Docker
+# ======================
+*.tar
+docker-compose.override.yml
+
+# ======================
+# OS / Misc
+# ======================
+.DS_Store
+Thumbs.db
+coverage/
+.pnp
+.pnp.js
+
+# Environment-specific
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

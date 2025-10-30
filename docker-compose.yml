@@ -1,0 +1,13 @@
+# docker-compose.yml
+services:
+  nst-app:
+    build: .
+    container_name: nst-app
+    ports:
+      - "5000:5000"       # Expose Flask backend
+    volumes:
+      - ./backend:/app/backend      # Optional: mount backend for live edits
+      - ./nst-frontend:/app/frontend # Optional: mount frontend for live edits
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
