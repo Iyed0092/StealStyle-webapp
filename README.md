@@ -1,6 +1,6 @@
 # 🎨 Neural Style Transfer (NST) Web App
 
-![NST Banner](https://user-images.githubusercontent.com/your-image-placeholder/nst-banner.png)
+![NST Banner](https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/content.jpg)
 
 Bring your photos to life with AI! This project allows you to **transform your content images** into stunning artwork in the style of famous paintings using **Neural Style Transfer**.  
 
@@ -29,8 +29,6 @@ Bring your photos to life with AI! This project allows you to **transform your c
   </div>
 
 </div>
-
-
 
 <br/>
 
@@ -67,31 +65,3 @@ nst-app/                 # root folder
 │   ├── public/
 │   └── src/
 └── README.md
-
-```
-
-🎯 Usage
-
-- Open the web app in your browser: http://localhost:3000
-
-- Upload a content image and a style image
-
-- Click Generate Image
-
-- See the gallery of generated images below your uploads
-
-💡 Notes
-
-- Intermediate images are saved in backend/uploads/generated_images
-
-- You can adjust NST parameters (epochs, alpha, beta) in transfer.py
-
-- The app is fully extensible for multiple styles, larger images, or live previews
-
-🛠 Tech Stack
-
-Backend: Python, Flask, TensorFlow, Keras
-
-Frontend: React, JavaScript, HTML, CSS
-
-Style Transfer: Neural Style Transfer (Gatys et al., 2015)
