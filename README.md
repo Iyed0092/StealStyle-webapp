@@ -9,10 +9,16 @@ Bring your photos to life with AI! This project allows you to **transform your c
 ## **Demo: See It in Action**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/nst-demo-1.jpg" width="30%" alt="NST Example 1" />
-  <img src="https://user-images.githubusercontent.com/your-username/nst-demo-2.jpg" width="30%" alt="NST Example 2" />
-  <img src="https://user-images.githubusercontent.com/your-username/nst-demo-3.jpg" width="30%" alt="NST Example 3" />
+  <h4>Content Image</h4>
+  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/louvre.jpg" width="30%" alt="Content Image" />
+
+  <h4>Style Image</h4>
+  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/starry_night.jpg" width="30%" alt="Style Image" />
+
+  <h4>Generated Image</h4>
+  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/generated_images/generated_1000.png" width="30%" alt="NST Example" />
 </div>
+
 
 <br/>
 
