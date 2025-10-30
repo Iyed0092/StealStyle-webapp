@@ -50,6 +50,8 @@ nst-app/                 # root folder
 │   └── src/
 └── README.md
 
+```
+
 🎯 Usage
 
 - Open the web app in your browser: http://localhost:3000

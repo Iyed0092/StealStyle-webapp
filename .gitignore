@@ -9,7 +9,6 @@ venv/
 .env
 
 # Backend uploads (skip user uploads & generated files)
-backend/uploads/
 backend/frontend_build/
 uploads/vgg19_weights/vgg19-weights.pth
 
