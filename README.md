@@ -8,16 +8,28 @@ Bring your photos to life with AI! This project allows you to **transform your c
 
 ## **Demo: See It in Action**
 
-<div align="center">
-  <h4>Content Image</h4>
-  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/louvre.jpg" width="30%" alt="Content Image" />
+<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
 
-  <h4>Style Image</h4>
-  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/starry_night.jpg" width="30%" alt="Style Image" />
+  <div style="text-align: center;">
+    <h4>Content Image</h4>
+    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/content.jpg" width="200px" alt="Content" />
+    <p>Original photo</p>
+  </div>
 
-  <h4>Generated Image</h4>
-  <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/backend/uploads/generated_images/generated_1000.png" width="30%" alt="NST Example" />
+  <div style="text-align: center;">
+    <h4>Style Image</h4>
+    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/style.jpg" width="200px" alt="Style" />
+    <p>Starry Night style</p>
+  </div>
+
+  <div style="text-align: center;">
+    <h4>Generated Image</h4>
+    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/generated.png" width="200px" alt="Generated" />
+    <p>Stylized output</p>
+  </div>
+
 </div>
+
 
 
 <br/>
