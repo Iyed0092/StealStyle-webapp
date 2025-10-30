@@ -6,31 +6,17 @@ Bring your photos to life with AI! This project allows you to **transform your c
 
 ---
 
-## **Demo: See It in Action**
+### Demo: See It in Action
 
-<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
+**Content Image**  
+![Content](https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/louvre.jpg)
 
-  <div style="text-align: center;">
-    <h4>Content Image</h4>
-    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/content.jpg" width="200px" alt="Content" />
-    <p>Original photo</p>
-  </div>
+**Style Image**  
+![Style](https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/starry_night.jpg)
 
-  <div style="text-align: center;">
-    <h4>Style Image</h4>
-    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/style.jpg" width="200px" alt="Style" />
-    <p>Starry Night style</p>
-  </div>
+**Generated Image**  
+![Generated](https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/generated_1000.png)
 
-  <div style="text-align: center;">
-    <h4>Generated Image</h4>
-    <img src="https://github.com/Iyed0092/StealStyle-webapp/raw/main/assets/demo-images/generated.png" width="200px" alt="Generated" />
-    <p>Stylized output</p>
-  </div>
-
-</div>
-
-<br/>
 
 ---
 
